@@ -1,0 +1,22 @@
+.parent{
+    width: 600px;
+    height: 600px;
+    border: 5px solid purple;
+    color: blueviolet;
+    text-align: center;
+    
+}
+.child{
+    width: 200px;
+    height: 200px;
+    border: 4px solid green;
+    top: 100px;
+    position: relative;
+    left: 360px;
+    color: green;
+    border-radius: 5;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5;
+    -ms-border-radius: 5;
+    -o-border-radius: 5;
+}

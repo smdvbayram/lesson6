@@ -1,0 +1,107 @@
+.bigbox{
+    width: 900px;
+    height: 80px;
+    background-color: aquamarine;
+    margin: 30px;
+    position: relative;
+    
+   
+}
+.box{
+    height: 80px;
+    width: 80px;
+    background-color: green;
+    margin: 30px; 
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+
+ } 
+ .box-reletive{
+    display: flex;
+    justify-content: center;
+    height: 80px;
+    width: 80px;
+    background-color: green;
+    top: 50px;
+    left: 30px;
+    position: relative;
+}
+.box{
+    height: 80px;
+    width: 80px;
+    background-color: green;
+  
+
+} 
+.fixed{
+    height: 80px;
+    width: 80px;
+    background-color: green;
+    margin: 30px;
+    
+
+}
+.absolute{
+    height: 80px;
+    width: 80px;
+    background-color: green;
+    margin: 30px;
+     
+}
+.relative{
+    height: 80px;
+    width: 80px;
+    background-color: green;
+    margin: 30px;
+    
+}
+.box1{
+    height: 80px;
+    width: 80px;
+    background-color: green;
+   position: fixed;
+   left: 290px;
+}
+.box2{
+    height: 80px;
+    width: 80px;
+    background-color: green;
+   position: absolute;
+   left: 590px;
+}
+.box3{
+    height: 80px;
+    width: 80px;
+    background-color: green;
+   position: absolute;
+   left: 290px;
+}
+.box4{
+    height: 80px;
+    width: 80px;
+    background-color: green;
+   position: absolute;
+   left: 590px;
+   display: flex;
+   justify-content: space-around;
+}
+.box5{
+    height: 80px;
+    width: 80px;
+    background-color: green;
+   position: absolute;
+   left: 290px;
+   display: flex;
+   justify-content: space-around;
+}
+.box6{
+    height: 80px;
+    width: 80px;
+    background-color: green;
+   position: absolute;
+   left: 590px;
+   display: flex;
+   justify-content: space-around;
+}
+

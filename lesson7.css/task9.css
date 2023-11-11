@@ -1,0 +1,17 @@
+.text{
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+
+}
+.box{
+    width: 60px;
+    height: 60px;
+    background-color: purple;
+    display: grid;
+    place-items: center;
+    display: inline-block;
+    position: fixed;
+    left: 23%;
+    top: 1.2%;
+}
